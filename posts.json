@@ -1,0 +1,77 @@
+{
+  "updated": "2026-11-18",
+  "posts": [
+    {
+      "id": "2026-11-18-opt-mistakes",
+      "date": "2026-11-18",
+      "order": 6,
+      "category": "tips",
+      "tag": "OPT tips",
+      "title": "3 quiet OPT mistakes, and the fix for each",
+      "summary": "Report your employer in the SEVP Portal within 10 days, keep your own count of unemployment days (90 on OPT, 150 total with STEM OPT), and get a travel signature that is under 6 months old before you fly.",
+      "links": [
+        {"label": "OPT rules (8 CFR 214.2)", "url": "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2"}
+      ],
+      "instagram": "https://www.instagram.com/p/Df49xJLoStc/"
+    },
+    {
+      "id": "2026-11-18-winter-travel",
+      "date": "2026-11-18",
+      "order": 5,
+      "category": "travel",
+      "tag": "Travel checklist",
+      "title": "Flying home for winter break? Pack these 5 documents to get back in",
+      "summary": "Passport valid 6+ months past your return, unexpired F-1 visa, I-20 with a travel signature (under 12 months; under 6 on OPT), proof of enrollment and proof of funding. After landing, check your I-94.",
+      "links": [
+        {"label": "Check your I-94 (CBP)", "url": "https://i94.cbp.dhs.gov/"}
+      ],
+      "instagram": "https://www.instagram.com/p/Df49sbpoTm2/"
+    },
+    {
+      "id": "2026-11-18-cpt-ruling",
+      "date": "2026-11-18",
+      "order": 4,
+      "category": "visa",
+      "tag": "Court ruling",
+      "title": "A federal judge blocked DHS's August limits on CPT",
+      "summary": "On 17 Nov 2026 a judge in Boston stopped DHS from enforcing two August directives that narrowed Curricular Practical Training. Schools will update their CPT policies; check with your DSO before applying. The government can still appeal.",
+      "links": [],
+      "instagram": "https://www.instagram.com/p/Df49nOmFCAx/"
+    },
+    {
+      "id": "2026-11-18-ds-ruling",
+      "date": "2026-11-18",
+      "order": 3,
+      "category": "visa",
+      "tag": "Court ruling",
+      "title": "F-1 students keep the 60-day grace period",
+      "summary": "On 16 Nov 2026 a federal court vacated the DHS rule that would have ended duration of status and cut the F-1 grace period to 30 days. Duration of status stays; the grace period stays 60 days. The government can appeal.",
+      "links": [],
+      "instagram": "https://www.instagram.com/p/Df49j0hFKXh/"
+    },
+    {
+      "id": "2026-11-18-h1b-grace",
+      "date": "2026-11-18",
+      "order": 2,
+      "category": "visa",
+      "tag": "Proposed · not law",
+      "title": "DHS wants to end the H-1B 60-day grace period",
+      "summary": "Today, H-1B workers who lose their job get up to 60 days (or until the I-94 ends) to find a new employer, change status or leave. A September 2026 proposal would remove it. It is not law yet; the 60 days still apply.",
+      "links": [
+        {"label": "Current rule (8 CFR 214.1)", "url": "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.1"}
+      ],
+      "instagram": "https://www.instagram.com/p/Df49e0qlEdC/"
+    },
+    {
+      "id": "2026-11-18-welcome",
+      "date": "2026-11-18",
+      "order": 1,
+      "category": "tips",
+      "tag": "Welcome",
+      "title": "Welcome to The Visa Clock",
+      "summary": "Visa news explained in plain English, who's hiring, job-search playbooks, travel and life admin. Every fact is checked against official sources, and every post shows its source and the date we checked it.",
+      "links": [],
+      "instagram": "https://www.instagram.com/p/Df49Z5tFGLy/"
+    }
+  ]
+}
