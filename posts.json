@@ -2,6 +2,23 @@
   "updated": "2026-11-18",
   "posts": [
     {
+      "id": "2026-11-18-winter-docs-reel",
+      "date": "2026-11-18",
+      "order": 7,
+      "category": "travel",
+      "tag": "Travel video",
+      "title": "Flying home for winter break? The 5 documents to carry",
+      "summary": "Passport valid 6+ months past your return, unexpired F-1 visa, I-20 with a travel signature (last 12 months; 6 on OPT), proof of spring enrollment and proof of funding. After you land, check your I-94 online.",
+      "links": [
+        {
+          "label": "Check your I-94 (CBP)",
+          "url": "https://i94.cbp.dhs.gov/"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/Df5MmeJjF5A/"
+    },
+    {
       "id": "2026-11-18-opt-mistakes",
       "date": "2026-11-18",
       "order": 6,
