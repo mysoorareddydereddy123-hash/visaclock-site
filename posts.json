@@ -2,6 +2,24 @@
   "updated": "2026-11-19",
   "posts": [
     {
+      "id": "2026-11-19-sierra-new-grad",
+      "date": "2026-11-19",
+      "order": 3,
+      "category": "hiring",
+      "tag": "New grad",
+      "title": "Sierra is hiring new grad software engineers (2027) in San Francisco and New York",
+      "summary": "Software Engineer, Agent (New Grad 2027): on-site in San Francisco or New York, posted pay $160K–$190K plus equity, no deadline listed. The posting does not mention visa sponsorship, so ask the recruiter early.",
+      "links": [
+        {
+          "label": "Apply on Sierra careers",
+          "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00"
+        }
+      ],
+      "image": "img/hiring.jpg",
+      "instagram": "https://www.instagram.com/p/Df8LJwkHdeZ/",
+      "expires": "2026-12-19"
+    },
+    {
       "id": "2026-11-19-microsoft-ai-buyouts",
       "date": "2026-11-19",
       "order": 2,
