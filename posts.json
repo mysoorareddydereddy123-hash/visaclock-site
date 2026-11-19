@@ -2,6 +2,27 @@
   "updated": "2026-11-19",
   "posts": [
     {
+      "id": "2026-11-19-microsoft-ai-buyouts",
+      "date": "2026-11-19",
+      "order": 2,
+      "category": "news",
+      "tag": "AI & tech",
+      "title": "Microsoft's CEO: work is being reorganized around AI, not replaced by it",
+      "summary": "Microsoft offered a voluntary exit to about 60,000 eligible employees (it expects under 5% to accept), and CEO Satya Nadella says engineers will spend more time directing and reviewing AI agents. For job seekers, it means interviews and resumes that show real work done with AI tools.",
+      "links": [
+        {
+          "label": "Official Microsoft Blog: Voluntary Exit Offer",
+          "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/"
+        },
+        {
+          "label": "Windows Latest report",
+          "url": "https://www.windowslatest.com/2026/11/09/microsofts-ceo-imagines-20-million-ai-agents-doing-the-work-as-the-company-offers-60000-employees-an-exit/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/p/Df7o1tSFHzd/"
+    },
+    {
       "id": "2026-11-19-perm-proposal",
       "date": "2026-11-19",
       "order": 1,
