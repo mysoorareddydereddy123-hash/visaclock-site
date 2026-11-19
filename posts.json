@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "posts": [
+    {
+      "id": "2026-11-19-perm-proposal",
+      "date": "2026-11-19",
+      "order": 1,
+      "category": "visa",
+      "tag": "Proposed · not law",
+      "title": "The Labor Dept. wants to rewrite PERM, the first step of most work green cards",
+      "summary": "DOL proposed 90-day job ads, online recruiting with pay ranges, a 2-year PERM pause after related layoffs, and an end to Schedule A. It's a proposal, not law: current rules apply while comments are open for 60 days.",
+      "links": [
+        {
+          "label": "Federal Register: PERM proposed rule (2026-23370)",
+          "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
+        },
+        {
+          "label": "U.S. Department of Labor: Foreign Labor Certification",
+          "url": "https://www.dol.gov/agencies/eta/foreign-labor"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/p/Df7NmdfIBwR/"
+    },
     {
       "id": "2026-11-18-winter-docs-reel",
       "date": "2026-11-18",
