@@ -2,6 +2,28 @@
   "updated": "2026-11-20",
   "posts": [
     {
+      "id": "2026-11-20-doordash-new-grad-swe",
+      "date": "2026-11-20",
+      "order": 3,
+      "category": "hiring",
+      "tag": "New grad",
+      "title": "DoorDash is hiring new grad software engineers (2027 start) in 5 US cities",
+      "summary": "Software Engineer I, Entry-Level for Fall 2026–Summer 2027 grads in Los Angeles, New York, San Francisco, Sunnyvale or Seattle; posted base pay $107,400–$158,000. The posting doesn't say whether it sponsors; the application asks if you need sponsorship (USCIS: 12 initial and 135 continuing H-1B approvals in FY2023).",
+      "links": [
+        {
+          "label": "Apply on DoorDash careers",
+          "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+        },
+        {
+          "label": "USCIS H-1B Employer Data Hub",
+          "url": "https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub"
+        }
+      ],
+      "image": "img/hiring.jpg",
+      "instagram": "https://www.instagram.com/p/Df-wLJKncDw/",
+      "expires": "2026-12-20"
+    },
+    {
       "id": "2026-11-20-check-your-i94",
       "date": "2026-11-20",
       "order": 2,
