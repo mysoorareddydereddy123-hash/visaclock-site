@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "posts": [
+    {
+      "id": "2026-11-20-open-doors-2026",
+      "date": "2026-11-20",
+      "order": 1,
+      "category": "news",
+      "tag": "New data",
+      "title": "International student numbers fell 9% this fall, and OPT dipped too",
+      "summary": "IIE's Fall 2026 Snapshot (809 schools) shows total international students down 9%, graduate down 15% and OPT down 6%; Open Doors 2026 counted 1,146,163 students last year (down 3%), with India still the top sending country. The reports don't change any F-1, OPT or CPT rule.",
+      "links": [
+        {
+          "label": "IIE Fall 2026 Snapshot key findings",
+          "url": "https://opendoorsdata.org/wp-content/uploads/2026/11/IIE_Fall-Snapshot_2026_Key-Findings_2026.pdf"
+        }
+      ],
+      "image": "img/campus.jpg",
+      "instagram": "https://www.instagram.com/p/Df9yeSAIP_2/"
+    },
     {
       "id": "2026-11-19-sierra-new-grad",
       "date": "2026-11-19",
