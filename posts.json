@@ -2,6 +2,27 @@
   "updated": "2026-11-20",
   "posts": [
     {
+      "id": "2026-11-20-check-your-i94",
+      "date": "2026-11-20",
+      "order": 2,
+      "category": "travel",
+      "tag": "Video",
+      "title": "Just flew back into the US? Check your I-94 first",
+      "summary": "Every entry creates a new I-94 record: check that it shows F-1 (not B-2), D/S instead of a fixed date, and your correct name and birth date. CBP Deferred Inspection sites can correct errors made at entry.",
+      "links": [
+        {
+          "label": "CBP official I-94 website",
+          "url": "https://i94.cbp.dhs.gov/"
+        },
+        {
+          "label": "CBP Deferred Inspection Sites",
+          "url": "https://cbp.gov/about/contact/ports/deferred-inspection-sites"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/Df-OvIxEyv3/"
+    },
+    {
       "id": "2026-11-20-open-doors-2026",
       "date": "2026-11-20",
       "order": 1,
