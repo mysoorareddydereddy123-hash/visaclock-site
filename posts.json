@@ -2,6 +2,24 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-nuro-new-grad-systems-2027",
+      "date": "2026-11-21",
+      "order": 3,
+      "category": "hiring",
+      "tag": "New grad",
+      "title": "Nuro is hiring 2027 new grads for Systems Engineering at up to $176K",
+      "summary": "Nuro (self-driving tech) is hiring a Systems Engineering New Grad 2027 in Mountain View, CA, for B.S./M.S./PhD students graduating by June 2027; posted base pay is $153,000–$176,000. The post doesn't mention visa sponsorship, so ask the recruiter.",
+      "links": [
+        {
+          "label": "Apply on Nuro careers",
+          "url": "https://nuro.ai/careersitem?gh_jid=8360415"
+        }
+      ],
+      "image": "img/hiring.jpg",
+      "instagram": "https://www.instagram.com/reel/DgA5a8fgpMg/",
+      "expires": "2026-12-21"
+    },
+    {
       "id": "2026-11-21-ibm-consulting-sponsorship",
       "date": "2026-11-21",
       "order": 2,
