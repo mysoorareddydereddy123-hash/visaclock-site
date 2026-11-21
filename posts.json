@@ -2,6 +2,27 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-riemann-proof-claude",
+      "date": "2026-11-21",
+      "order": 4,
+      "category": "news",
+      "tag": "AI & tech",
+      "title": "Math experts certify an AI-assisted proof of the 167-year-old Riemann hypothesis",
+      "summary": "Anthropic mathematician Levent Alpöge says he proved the Riemann hypothesis working with Claude; the Lean and Mathlib communities certified the computer-checked proof on Nov 21. A human-readable paper and full expert review are still to come.",
+      "links": [
+        {
+          "label": "Scientific American: independent mathematicians attest",
+          "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+        },
+        {
+          "label": "Nature: mathematicians react",
+          "url": "https://www.nature.com/articles/d41586-026-03812-7"
+        }
+      ],
+      "image": "img/campus.jpg",
+      "instagram": "https://www.instagram.com/reel/DgBHLE0jT8H/"
+    },
+    {
       "id": "2026-11-21-nuro-new-grad-systems-2027",
       "date": "2026-11-21",
       "order": 3,
