@@ -2,6 +2,23 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-bitcoin-two-year-low",
+      "date": "2026-11-21",
+      "order": 7,
+      "category": "news",
+      "tag": "Markets",
+      "title": "Bitcoin fell to $55,252, its lowest price in 2 years",
+      "summary": "Bitcoin slid to about $55,252 on Saturday, its lowest since September 2024, then bounced back near $60,000 as the AI stock selloff spilled into crypto. News only, not investment advice.",
+      "links": [
+        {
+          "label": "Reuters via Euronext",
+          "url": "https://live.euronext.com/en/financial-news/bitcoin-rises-after-falling-two-year-low"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgBbnM8Fc8K/"
+    },
+    {
       "id": "2026-11-21-princeton-phd-ice-airport",
       "date": "2026-11-21",
       "order": 6,
