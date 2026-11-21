@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "posts": [
+    {
+      "id": "2026-11-21-ai-stocks-worst-week",
+      "date": "2026-11-21",
+      "order": 1,
+      "category": "news",
+      "tag": "Money",
+      "title": "AI stocks just had their worst week since 2020: Nasdaq down 10%",
+      "summary": "An AI and chip-stock sell-off pushed the Nasdaq down about 10% for the week (its worst week since March 2020) and put the S&P 500 and Dow into correction. Visa rules don't change, but tech hiring budgets can tighten when markets fall, so keep applying widely.",
+      "links": [
+        {
+          "label": "Fox Business: Dow, S&P 500 plunge into correction",
+          "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+        },
+        {
+          "label": "Yahoo Finance: stock market live coverage",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgAXEHkjkhh/"
+    },
     {
       "id": "2026-11-20-doordash-new-grad-swe",
       "date": "2026-11-20",
