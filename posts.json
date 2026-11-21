@@ -2,6 +2,27 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-ibm-consulting-sponsorship",
+      "date": "2026-11-21",
+      "order": 2,
+      "category": "visa",
+      "tag": "News",
+      "title": "IBM ends visa and green card sponsorship for most IBM Consulting roles",
+      "summary": "IBM confirmed it will stop sponsoring US work visas and green cards for the majority of roles in IBM Consulting (150,000+ people); affected workers can work for IBM outside the US or leave by year-end, Bloomberg reported. If you apply there on OPT, check each job post's sponsorship line.",
+      "links": [
+        {
+          "label": "Reuters (via Yahoo Finance)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/ibm-end-visa-green-card-170825299.html"
+        },
+        {
+          "label": "Newsweek",
+          "url": "https://www.newsweek.com/green-card-h1b-visa-update-ibm-ending-certain-sponsorships-12694698"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgArw2IiLel/"
+    },
+    {
       "id": "2026-11-21-ai-stocks-worst-week",
       "date": "2026-11-21",
       "order": 1,
