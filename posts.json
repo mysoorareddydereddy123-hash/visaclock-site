@@ -2,6 +2,27 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-trump-data-centers-abroad",
+      "date": "2026-11-21",
+      "order": 5,
+      "category": "news",
+      "tag": "AI & tech",
+      "title": "Trump threatens a 'tremendous tax' on US companies that build AI data centers abroad",
+      "summary": "At a White House briefing on Nov 20, President Trump said US companies won't be allowed to build data centers overseas and would face heavy penalties if they do; he gave no details on how it would be enforced. Nothing has been written into law yet.",
+      "links": [
+        {
+          "label": "CNBC: Trump vows to stop US companies building data centers abroad",
+          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+        },
+        {
+          "label": "NBC News report",
+          "url": "https://www.nbcnews.com/business/corporations/trump-data-centers-overseas-penalties-rcna610445"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgBN4LVFWGq/"
+    },
+    {
       "id": "2026-11-21-riemann-proof-claude",
       "date": "2026-11-21",
       "order": 4,
