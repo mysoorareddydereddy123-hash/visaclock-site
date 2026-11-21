@@ -2,6 +2,27 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-princeton-phd-ice-airport",
+      "date": "2026-11-21",
+      "order": 6,
+      "category": "visa",
+      "tag": "Visa update",
+      "title": "ICE detains a Princeton PhD student at a DC airport after a science conference",
+      "summary": "ICE detained Princeton neuroscience PhD student Eva Yi Xie at Reagan National Airport on Nov 19 before a domestic flight. DHS says she overstayed a 2016 admission and never held student status; her lawyer says her pending asylum case lets her stay, and a federal judge has barred her transfer and ordered the government to respond by Nov 25.",
+      "links": [
+        {
+          "label": "NBC News: Princeton neuroscientist detained by ICE at D.C. airport",
+          "url": "https://www.nbcnewyork.com/news/national-international/princeton-neuroscientist-detained-ice-reagan-airport-conference/6575105/"
+        },
+        {
+          "label": "Philadelphia Inquirer: ICE arrest of a Princeton scholar mobilizes academics",
+          "url": "https://www.inquirer.com/news/ice-arrest-princeton-phd-mobilizes-academics-across-country-20261121.html"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/DgBU8-nCvzk/"
+    },
+    {
       "id": "2026-11-21-trump-data-centers-abroad",
       "date": "2026-11-21",
       "order": 5,
