@@ -2,6 +2,18 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-week-in-60-seconds",
+      "date": "2026-11-22",
+      "order": 2,
+      "category": "news",
+      "tag": "News",
+      "title": "Week in 60 seconds: the 9 stories you needed",
+      "summary": "Anthropic's record IPO, AI stocks' worst week since 2020 and a GAO report on chatbots planning attacks; F-1 grace period and CPT court rulings and a proposed PERM rewrite; IBM ending most consulting sponsorship, Texas's H-1B freeze plan and a 9% drop in new international students.",
+      "links": [],
+      "image": "img/campus.jpg",
+      "instagram": "https://www.instagram.com/p/DgC-rwTlAuX/"
+    },
+    {
       "id": "2026-11-22-gao-ai-chatbots-attack-plans",
       "date": "2026-11-22",
       "order": 1,
