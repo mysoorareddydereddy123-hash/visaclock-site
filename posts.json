@@ -2,6 +2,28 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-opt-window-december",
+      "date": "2026-11-22",
+      "order": 4,
+      "category": "tips",
+      "tag": "Deadline",
+      "title": "December grads: file your OPT before you fly home",
+      "summary": "USCIS must receive a post-completion OPT application between 90 days before and 60 days after your I-20 program end date, within 30 days of your DSO's SEVIS recommendation, and you must file from inside the US. For a Dec 15, 2026 end date, the last day is Feb 13, 2027.",
+      "links": [
+        {
+          "label": "CU Boulder ISSS: Post-completion OPT",
+          "url": "https://www.colorado.edu/isss/students/current-students/f-1-student-overview/post-completion-optional-practical-training-opt"
+        },
+        {
+          "label": "ASU ISSC: Apply early for post-OPT",
+          "url": "https://issc.asu.edu/news/apply-early-post-opt"
+        }
+      ],
+      "image": "img/opt.jpg",
+      "instagram": "https://www.instagram.com/reel/DgDQb6BFFf3/",
+      "expires": "2027-02-13"
+    },
+    {
       "id": "2026-11-22-fstc-florida",
       "date": "2026-11-22",
       "order": 3,
