@@ -2,6 +2,27 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-amazon-decart-7-5b",
+      "date": "2026-11-22",
+      "order": 7,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "Amazon reportedly near a $7.5B deal for 2-year-old AI startup Decart",
+      "summary": "The Financial Times reported that Amazon is in final-stage talks to buy Decart, an AI startup founded in 2023, for about $7.5 billion; a deal could come as soon as early next week but could still fall apart. Decart was valued at $4 billion in May and was an early user of Amazon's Trainium AI chips.",
+      "links": [
+        {
+          "label": "TipRanks: Amazon eyes $7.5 billion AI startup deal",
+          "url": "https://www.tipranks.com/news/amazon-amzn-eyes-7-5-billion-ai-startup-deal-as-nvidia-rivalry-heats-up"
+        },
+        {
+          "label": "Seeking Alpha: Amazon nears $7.5B deal to buy Decart (FT)",
+          "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgDlD32CqO9/"
+    },
+    {
       "id": "2026-11-22-clayton-nvidia-chips-china",
       "date": "2026-11-22",
       "order": 6,
