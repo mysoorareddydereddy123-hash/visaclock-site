@@ -2,6 +2,23 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-anthropic-ipo-bankers",
+      "date": "2026-11-22",
+      "order": 5,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "Anthropic's IPO bankers: no OpenAI work for 6 months",
+      "summary": "A Reuters report says Anthropic asked senior bankers on its record IPO not to work for rivals such as OpenAI for 6 months. The stock, priced at $83, closed day one at $97.17 and slid about 8.5% on Friday in the AI sell-off.",
+      "links": [
+        {
+          "label": "Fox News Digital live updates (citing Reuters)",
+          "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgDXYHgDNOJ/"
+    },
+    {
       "id": "2026-11-22-opt-window-december",
       "date": "2026-11-22",
       "order": 4,
