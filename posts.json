@@ -2,6 +2,27 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-fstc-florida",
+      "date": "2026-11-22",
+      "order": 3,
+      "category": "news",
+      "tag": "Money",
+      "title": "A $1,700 tax credit for scholarship donations comes to Florida in 2027",
+      "summary": "Florida opted in to the Federal Scholarship Tax Credit: from Jan 1, 2027, taxpayers can claim up to $1,700 a year ($3,400 married filing jointly) for cash gifts to approved K-12 Scholarship Granting Organizations. The credit is non-refundable.",
+      "links": [
+        {
+          "label": "IRS: Federal Scholarship Tax Credit",
+          "url": "https://www.irs.gov/government-entities/federal-state-local-governments/federal-scholarship-tax-credit-fstc"
+        },
+        {
+          "label": "Florida Governor's announcement",
+          "url": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-announces-florida-opts-federal-education-freedom-tax-credit"
+        }
+      ],
+      "image": "img/campus.jpg",
+      "instagram": "https://www.instagram.com/reel/DgDCgYIj88g/"
+    },
+    {
       "id": "2026-11-22-week-in-60-seconds",
       "date": "2026-11-22",
       "order": 2,
