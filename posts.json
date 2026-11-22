@@ -2,6 +2,27 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-seatac-ice-arrests",
+      "date": "2026-11-22",
+      "order": 9,
+      "category": "visa",
+      "tag": "Visa update",
+      "title": "ICE arrested 2 passengers boarding a flight at Seattle's airport",
+      "summary": "On Nov 21, ICE made an arrest on an Alaska Airlines jet bridge at Sea-Tac as passengers boarded a flight to Los Angeles. DHS says both people arrested had overstayed visas; Washington's governor and the Port of Seattle criticized the operation.",
+      "links": [
+        {
+          "label": "KUOW/OPB: Port officials react to Sea-Tac ICE arrest",
+          "url": "https://www.opb.org/article/2026/11/22/seattle-airport-ice-arrest/"
+        },
+        {
+          "label": "Fox News: DHS, officials clash after Seattle airport arrest",
+          "url": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/DgDyq0RD5ON/"
+    },
+    {
       "id": "2026-11-22-intel-workforce-7300",
       "date": "2026-11-22",
       "order": 8,
