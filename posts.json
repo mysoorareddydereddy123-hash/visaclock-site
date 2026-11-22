@@ -2,6 +2,27 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-bessent-nvidia-answers",
+      "date": "2026-11-22",
+      "order": 10,
+      "category": "news",
+      "tag": "News",
+      "title": "US Treasury chief: we need answers from Nvidia on China chip sales",
+      "summary": "On CBS's Face the Nation on Sunday, Treasury Secretary Scott Bessent said the US is seeking answers from Nvidia on its chip sales to China and wants to know who ran compliance. Nvidia stock fell about 23% last week.",
+      "links": [
+        {
+          "label": "Reuters via MarketScreener: US seeks answers on Nvidia chip sales to China",
+          "url": "https://www.marketscreener.com/news/us-seeks-answers-on-nvidia-s-sale-of-chips-to-china-bessent-says-ce785ed3d18df02d"
+        },
+        {
+          "label": "Reuters via U.S. News: Bessent on Nvidia",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-22/us-seeks-answers-on-nvidia-s-sale-of-chips-to-china-bessent-says"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgD5k56kjsi/"
+    },
+    {
       "id": "2026-11-22-seatac-ice-arrests",
       "date": "2026-11-22",
       "order": 9,
