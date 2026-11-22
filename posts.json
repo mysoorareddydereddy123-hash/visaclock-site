@@ -2,6 +2,23 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-texas-h1b-freeze-reversal",
+      "date": "2026-11-21",
+      "order": 9,
+      "category": "visa",
+      "tag": "Visa update",
+      "title": "Texas's next governor plans to end the state's H-1B freeze",
+      "summary": "Governor-elect Gina Hinojosa told The Texas Tribune she plans to scrap Gov. Abbott's pause on new H-1B petitions at state agencies and public universities, which runs through May 31, 2027. It's a plan for now; the freeze still applies until it is officially reversed.",
+      "links": [
+        {
+          "label": "Newsweek report",
+          "url": "https://www.newsweek.com/texas-h-1b-visa-holders-handed-boost-as-hinojosa-vows-policy-u-turn-12741818"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgBpcDFjmgn/"
+    },
+    {
       "id": "2026-11-21-ai-prompt-leak-test",
       "date": "2026-11-21",
       "order": 8,
