@@ -2,6 +2,27 @@
   "updated": "2026-11-22",
   "posts": [
     {
+      "id": "2026-11-22-intel-workforce-7300",
+      "date": "2026-11-22",
+      "order": 8,
+      "category": "news",
+      "tag": "Layoffs",
+      "title": "Intel's workforce shrank by 7,300 in a year as sales rose 21%",
+      "summary": "Intel reported about 81,100 employees as of Sept 26, 2026, down from 88,400 a year earlier, while Q3 revenue rose 21% to $16.5 billion. A Nov 16 California WARN notice adds 57 more cuts in Santa Clara, including engineering roles.",
+      "links": [
+        {
+          "label": "Intel: Q3 2026 financial results",
+          "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results"
+        },
+        {
+          "label": "TheStreet: Intel announces more layoffs",
+          "url": "https://www.thestreet.com/technology/intel-announces-more-layoffs-as-workforce-shrinks-by-7300"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgDsCkVgnsj/"
+    },
+    {
       "id": "2026-11-22-amazon-decart-7-5b",
       "date": "2026-11-22",
       "order": 7,
