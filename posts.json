@@ -2,6 +2,23 @@
   "updated": "2026-11-21",
   "posts": [
     {
+      "id": "2026-11-21-ai-prompt-leak-test",
+      "date": "2026-11-21",
+      "order": 8,
+      "category": "news",
+      "tag": "AI & tech",
+      "title": "A test with 2 million AI prompts caught 3 AI providers hacked",
+      "summary": "Security firm Dragos seeded about 2 million AI prompts with bait secrets and found attackers had breached at least 3 AI hosting providers, while some resellers logged customer prompts and some ignored zero-data-retention settings. Avoid putting real passwords or API keys into AI tools.",
+      "links": [
+        {
+          "label": "Dragos research: Three breaches, endless leaks",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgBipE6lWNr/"
+    },
+    {
       "id": "2026-11-21-bitcoin-two-year-low",
       "date": "2026-11-21",
       "order": 7,
