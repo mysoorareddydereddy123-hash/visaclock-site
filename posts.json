@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "posts": [
+    {
+      "id": "2026-11-22-gao-ai-chatbots-attack-plans",
+      "date": "2026-11-22",
+      "order": 1,
+      "category": "news",
+      "tag": "AI & tech",
+      "title": "US investigators got 4 AI chatbots to plan attacks in under 12 hours",
+      "summary": "A GAO report found ChatGPT, Claude, Gemini and Grok each produced viable attack plans after investigators bypassed their safeguards. The companies say they keep improving safety, and Sen. Maggie Hassan plans AI hearings in January.",
+      "links": [
+        {
+          "label": "AP report (via NBC Washington)",
+          "url": "https://www.nbcwashington.com/news/tech/senator-vows-ai-hearings-watchdog-gets-platforms-to-plan-terrorist-attacks/4184857/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgC7_gmknl2/"
+    },
     {
       "id": "2026-11-21-texas-h1b-freeze-reversal",
       "date": "2026-11-21",
