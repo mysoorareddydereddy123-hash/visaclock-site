@@ -2,9 +2,34 @@
   "updated": "2026-11-23",
   "posts": [
     {
-      "id": "2026-11-23-4-ways-after-opt",
+      "id": "2026-11-23-crowdstrike-zscaler",
       "date": "2026-11-23",
       "order": 1,
+      "category": "news",
+      "tag": "News",
+      "title": "CrowdStrike is buying Zscaler for $43.9 billion",
+      "summary": "CrowdStrike and Zscaler announced on Monday an all-stock deal valuing Zscaler at about $43.9 billion, one of the largest cybersecurity deals on record. Zscaler holders get 1.135 CrowdStrike shares each, a 34% premium; the deal still needs approvals.",
+      "links": [
+        {
+          "label": "CrowdStrike press release",
+          "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/"
+        },
+        {
+          "label": "SEC filing (Exhibit 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000110465926130785/tm2630454d1_ex99-1.htm"
+        },
+        {
+          "label": "CNBC (Reuters): CrowdStrike bets on network security with Zscaler deal",
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgFhDUckbPS/"
+    },
+    {
+      "id": "2026-11-23-4-ways-after-opt",
+      "date": "2026-11-23",
+      "order": 2,
       "category": "tips",
       "tag": "Video",
       "title": "4 ways to stay in the US after OPT ends",
