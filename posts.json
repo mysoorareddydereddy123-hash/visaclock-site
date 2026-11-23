@@ -2,6 +2,27 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-delta-delays",
+      "date": "2026-11-23",
+      "order": 6,
+      "category": "travel",
+      "tag": "TRAVEL",
+      "title": "A system glitch delayed more than 1,300 Delta flights as Thanksgiving travel began",
+      "summary": "On Sunday, Delta's weight-and-balance system went down, delaying more than 1,300 flights nationwide, mostly at Atlanta. Delta says the system is restored, it was not a hack, and it is rebooking travelers and refunding canceled flights.",
+      "links": [
+        {
+          "label": "ABC News",
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
+        },
+        {
+          "label": "WSB Radio: Monday update",
+          "url": "https://www.wsbradio.com/news/local/delta-flight-delays-cancellations-continue-atlanta-airport-ahead-thanksgiving/5GQC7DHYE5HO7D3VUJSPAJCHWI/"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/DgF8iNggSUw/"
+    },
+    {
       "id": "2026-11-23-amazon-decart",
       "date": "2026-11-23",
       "order": 5,
