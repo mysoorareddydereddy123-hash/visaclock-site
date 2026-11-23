@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "posts": [
+    {
+      "id": "2026-11-23-4-ways-after-opt",
+      "date": "2026-11-23",
+      "order": 1,
+      "category": "tips",
+      "tag": "Video",
+      "title": "4 ways to stay in the US after OPT ends",
+      "summary": "O-1, Day-1 CPT, H-1B with cap-gap, and the STEM OPT extension. The catch: STEM OPT must be filed within 90 days before your OPT end date and received by USCIS before it expires.",
+      "links": [
+        {
+          "label": "USCIS: H-1B cap-gap",
+          "url": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/extension-of-post-completion-optional-practical-training-opt-and-f-1-status-for-eligible-students"
+        }
+      ],
+      "image": "img/opt.jpg",
+      "instagram": "https://www.instagram.com/reel/DgEqkIzDDhU/"
+    },
     {
       "id": "2026-11-22-bessent-nvidia-answers",
       "date": "2026-11-22",
