@@ -2,6 +2,23 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-nvidia-950b-record-day",
+      "date": "2026-11-23",
+      "order": 10,
+      "category": "news",
+      "tag": "MARKETS",
+      "title": "Nvidia adds about $950 billion in one day, the biggest one-day gain on record",
+      "summary": "Nvidia shares closed up about 31% on Monday after its board reinstated Jensen Huang as CEO, adding roughly $950 billion in market value. That is more than double the previous one-day record, Microsoft's ~$450 billion gain on July 30.",
+      "links": [
+        {
+          "label": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-gains-nearly-1t-as-trump-says-nobody-could-revive-the-stock-like-its-being-revived-194634496.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgGXmKsiiKU/"
+    },
+    {
       "id": "2026-11-23-korea-minister-ai-cheating",
       "date": "2026-11-23",
       "order": 9,
