@@ -2,6 +2,31 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-massachusetts-sues-ice-courthouses",
+      "date": "2026-11-23",
+      "order": 8,
+      "category": "visa",
+      "tag": "Visa update",
+      "title": "Massachusetts sues ICE over 38 courthouse arrests",
+      "summary": "Attorney General Andrea Campbell filed a federal lawsuit in Boston saying ICE made at least 38 civil arrests in state courthouses without judicial warrants since the PROTECT Act's courthouse rule took effect on Nov 3. The suit challenges a May 2025 ICE directive; DHS has pointed to the Supremacy Clause.",
+      "links": [
+        {
+          "label": "Boston.com / The Boston Globe",
+          "url": "https://www.boston.com/news/local-news/2026/11/23/ag-campbell-sues-ice-over-courthouse-arrests/"
+        },
+        {
+          "label": "WBUR",
+          "url": "https://www.wbur.org/news/2026/11/23/massachusetts-ice-lawsuit-courtroom-arrests"
+        },
+        {
+          "label": "GBH News",
+          "url": "https://www.wgbh.org/news/local/2026-11-23/massachusetts-sues-ice-for-arresting-immigrants-at-courthouses-in-breach-of-new-state-law"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgGJ5vADHiG/"
+    },
+    {
       "id": "2026-11-23-openai-ai-limits",
       "date": "2026-11-23",
       "order": 7,
