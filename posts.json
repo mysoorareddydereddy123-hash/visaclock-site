@@ -2,6 +2,23 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-amazon-decart",
+      "date": "2026-11-23",
+      "order": 5,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "Amazon confirms deal for Decart's AI chip tech, reported at $7.5 billion",
+      "summary": "Amazon signed an agreement to buy the technology behind the Decart Optimization Stack and bring Decart's co-founders and AI team on board. Amazon didn't disclose the price; Bloomberg reports about $7.5 billion, and the deal still needs regulatory clearance.",
+      "links": [
+        {
+          "label": "Amazon announcement",
+          "url": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgF1QisDXzj/"
+    },
+    {
       "id": "2026-11-23-stocks-rebound",
       "date": "2026-11-23",
       "order": 4,
