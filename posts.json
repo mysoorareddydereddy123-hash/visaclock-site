@@ -2,6 +2,27 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-ai-fewer-beginners",
+      "date": "2026-11-23",
+      "order": 11,
+      "category": "news",
+      "tag": "AI & Jobs",
+      "title": "Industries using AI most are hiring fewer beginners, report finds",
+      "summary": "A Burning Glass Institute and RAISE US report finds the share of postings open to people with 3 years of experience or less fell 3-8% below average in the most AI-intensive industries, while jobs AI mainly helps grew by about 1.4 million from 2023 to 2025.",
+      "links": [
+        {
+          "label": "Burning Glass Institute: Fewer Rungs, New Bridges",
+          "url": "https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges"
+        },
+        {
+          "label": "Digital Trends",
+          "url": "https://www.digitaltrends.com/computing/ai-is-squeezing-entry-level-office-jobs-and-workers-without-degrees-are-most-exposed/"
+        }
+      ],
+      "image": "img/hiring.jpg",
+      "instagram": "https://www.instagram.com/reel/DgGlYDolVxh/"
+    },
+    {
       "id": "2026-11-23-nvidia-950b-record-day",
       "date": "2026-11-23",
       "order": 10,
