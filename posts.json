@@ -2,6 +2,31 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-korea-minister-ai-cheating",
+      "date": "2026-11-23",
+      "order": 9,
+      "category": "news",
+      "tag": "AI ALERT",
+      "title": "South Korea's education minister resigns over AI exam-cheating scandal",
+      "summary": "Choi Kyo-jin resigned after criticism of last-minute anti-AI-cheating measures for the national college entrance exam, which followed a tax accountant exam top scorer's admission to cheating with a hidden camera, a smartphone and AI. The ministry reported 111 suspected device breaches on exam day.",
+      "links": [
+        {
+          "label": "Euronews",
+          "url": "https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules"
+        },
+        {
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/south-korea-education-minister-resigns/"
+        },
+        {
+          "label": "The Korea Times (Yonhap)",
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20261122/education-minister-offers-to-resign-over-college-exam-controversy-amid-ai-cheating-fears"
+        }
+      ],
+      "image": "img/campus.jpg",
+      "instagram": "https://www.instagram.com/reel/DgGQ_0OmY7x/"
+    },
+    {
       "id": "2026-11-23-massachusetts-sues-ice-courthouses",
       "date": "2026-11-23",
       "order": 8,
