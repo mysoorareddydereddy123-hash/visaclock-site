@@ -2,6 +2,23 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-stocks-rebound",
+      "date": "2026-11-23",
+      "order": 4,
+      "category": "news",
+      "tag": "MARKETS",
+      "title": "Nasdaq jumps about 7% after its worst week since 2020",
+      "summary": "US stocks rebounded sharply Monday morning, led by tech and AI shares, after all three major indexes ended last week in correction territory. Nvidia rose about 30% after reinstating Jensen Huang as CEO.",
+      "links": [
+        {
+          "label": "Yahoo Finance live coverage",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgFuhRrDKSA/"
+    },
+    {
       "id": "2026-11-23-nvidia-huang-reinstated",
       "date": "2026-11-23",
       "order": 1,
