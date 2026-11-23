@@ -2,6 +2,27 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-openai-ai-limits",
+      "date": "2026-11-23",
+      "order": 7,
+      "category": "news",
+      "tag": "AI ALERT",
+      "title": "OpenAI's chief scientist proposes industry-wide limits on powerful AI",
+      "summary": "Jakub Pachocki proposed that AI companies agree on common limits, based on perplexity and other measures, that they would not cross until AI behavior can be better understood and monitored. CEO Sam Altman backed the proposal; it is not a rule.",
+      "links": [
+        {
+          "label": "Bloomberg via Business Standard",
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-s-chief-scientist-proposes-industry-limits-on-ai-development-126112300085_1.html"
+        },
+        {
+          "label": "ThePrint",
+          "url": "https://theprint.in/tech/openai-chief-scientist-seeks-industry-limits-on-ai-development-ceo-sam-altman-agrees/3106120/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgGDIeLADVT/"
+    },
+    {
       "id": "2026-11-23-delta-delays",
       "date": "2026-11-23",
       "order": 6,
