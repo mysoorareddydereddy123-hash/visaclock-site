@@ -2,6 +2,23 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-dell-ai-backlog",
+      "date": "2026-11-24",
+      "order": 9,
+      "category": "news",
+      "tag": "Markets",
+      "title": "Dell now has $132.3 billion in AI server orders waiting",
+      "summary": "Dell reported record quarterly revenue of $54.9 billion, up 103%, booked $60.2 billion in new AI orders and ended the quarter with a $132.3 billion AI backlog. It raised its full-year revenue forecast to $202 billion. Facts only, not investment advice.",
+      "links": [
+        {
+          "label": "Reuters: Dell lifts annual forecasts after record quarter",
+          "url": "https://www.aol.com/articles/dell-lifts-annual-forecasts-record-210649000.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgI8P0dihBN/"
+    },
+    {
       "id": "2026-11-24-states-sue-hud-mixed-status",
       "date": "2026-11-24",
       "order": 8,
