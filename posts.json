@@ -2,6 +2,27 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-ai-insiders-unreleased-models",
+      "date": "2026-11-24",
+      "order": 6,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "AI insiders say some unreleased models may be too powerful to release",
+      "summary": "Axios reported that many OpenAI and Anthropic employees doubt their most powerful unreleased models can be released safely, citing more than two dozen sources. OpenAI said new safety rules could slow releases; Anthropic said it delayed pretraining a model for added security.",
+      "links": [
+        {
+          "label": "The Next Web: AI lab staff fear unreleased models are too powerful to release",
+          "url": "https://thenextweb.com/news/anthropic-openai-staff-fear-unreleased-models-unsafe-axios"
+        },
+        {
+          "label": "Android Headlines: Insiders warn secret AI models are getting too dangerous",
+          "url": "https://www.androidheadlines.com/2026/11/openai-anthropic-employees-warn-ai-models-too-powerful.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgInzYsD0Z3/"
+    },
+    {
       "id": "2026-11-24-anthropic-below-ipo-price",
       "date": "2026-11-24",
       "order": 5,
