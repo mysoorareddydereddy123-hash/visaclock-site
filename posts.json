@@ -2,6 +2,23 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-megaspeed-blacklist",
+      "date": "2026-11-24",
+      "order": 2,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "US blacklists Megaspeed, the chip firm tied to the Nvidia scandal",
+      "summary": "The Commerce Department added Singapore-based Megaspeed and six linked companies in Singapore, Malaysia and Thailand to its Entity List over the risk of advanced AI chips being diverted to unauthorized users. US companies now need a license to sell to them.",
+      "links": [
+        {
+          "label": "The Hill: Commerce adds Megaspeed to trade blacklist",
+          "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgIMSdtgXCj/"
+    },
+    {
       "id": "2026-11-24-sanofi-insmed",
       "date": "2026-11-24",
       "order": 1,
