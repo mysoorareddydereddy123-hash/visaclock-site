@@ -2,6 +2,23 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-chatgpt-gpt62-sol-default",
+      "date": "2026-11-24",
+      "order": 3,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "ChatGPT gets a new default model, but not for free users",
+      "summary": "OpenAI is rolling out a chat-tuned GPT-6.2 Sol as the default in ChatGPT's Chat tab worldwide for Plus, Pro, Business and Enterprise users. Free and Go plans are not included yet.",
+      "links": [
+        {
+          "label": "The Decoder: OpenAI updates ChatGPT with GPT-6.2 Sol",
+          "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+        }
+      ],
+      "image": "img/campus.jpg",
+      "instagram": "https://www.instagram.com/reel/DgITQrXki0E/"
+    },
+    {
       "id": "2026-11-24-megaspeed-blacklist",
       "date": "2026-11-24",
       "order": 2,
