@@ -2,6 +2,27 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-states-sue-hud-mixed-status",
+      "date": "2026-11-24",
+      "order": 8,
+      "category": "news",
+      "tag": "Housing",
+      "title": "21 states and DC sue HUD over its mixed-status housing rule",
+      "summary": "Attorneys general from 21 states and DC, plus Pennsylvania's governor, sued to block a new HUD rule that would end prorated housing aid for households where some members are not citizens or eligible immigrants. HUD estimates about 78,100 people in 20,000 families could lose assistance.",
+      "links": [
+        {
+          "label": "Maryland Attorney General: coalition lawsuit",
+          "url": "https://oag.maryland.gov/News/pages/Attorney-General-Brown-Sues-to-Protect-Housing-Assistance-for-Mixed-Status-Families--.aspx"
+        },
+        {
+          "label": "Colorado Attorney General: press release",
+          "url": "https://coag.gov/press-releases/attorney-general-phil-weiser-sues-to-protect-housing-assistance-for-mixed-status-families/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgI1lGIAMAo/"
+    },
+    {
       "id": "2026-11-24-states-sue-spacex-grok",
       "date": "2026-11-24",
       "order": 7,
