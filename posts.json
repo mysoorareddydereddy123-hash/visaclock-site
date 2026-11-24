@@ -2,6 +2,27 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-cdc-ebola-entry-rule",
+      "date": "2026-11-24",
+      "order": 10,
+      "category": "travel",
+      "tag": "Travel",
+      "title": "Green card holders stay under the CDC's Ebola entry rule",
+      "summary": "The CDC filed a notice extending its interim rule that lets it suspend entry of non-citizens, including green card holders, during the Ebola outbreak; it was due to expire Nov 27 and now runs up to six more months. The current CDC order, through Dec 10, covers non-citizens who were in the DR Congo, Uganda or South Sudan in the past 21 days. Not legal advice.",
+      "links": [
+        {
+          "label": "Federal Register: CDC notice 2026-23990 (public inspection)",
+          "url": "https://public-inspection.federalregister.gov/2026-23990.pdf"
+        },
+        {
+          "label": "CDC: Information for travelers returning from Ebola-affected areas",
+          "url": "https://www.cdc.gov/ebola/situation-summary/returning-travelers.html"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/DgJDN3TE1Ff/"
+    },
+    {
       "id": "2026-11-24-dell-ai-backlog",
       "date": "2026-11-24",
       "order": 9,
