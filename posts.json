@@ -2,6 +2,27 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-anthropic-below-ipo-price",
+      "date": "2026-11-24",
+      "order": 5,
+      "category": "news",
+      "tag": "Markets",
+      "title": "Anthropic stock slips below its $83 IPO price",
+      "summary": "Anthropic (Nasdaq: ANT) fell as much as 14% on Tuesday to about $75.85, below the $83 IPO price set on Nov 18. The stock had opened at $111.50 on its first trading day after the record $81.3 billion IPO. Facts only, not investment advice.",
+      "links": [
+        {
+          "label": "Cointelegraph: Anthropic falls below IPO price",
+          "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price"
+        },
+        {
+          "label": "Il Sole 24 Ore: Anthropic below the IPO threshold",
+          "url": "https://en.ilsole24ore.com/art/anthropics-share-price-has-already-fallen-below-the-ipo-threshold-AJcSMDRC"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgIg6Vlj8sh/"
+    },
+    {
       "id": "2026-11-24-chip-stocks-slide",
       "date": "2026-11-24",
       "order": 4,
