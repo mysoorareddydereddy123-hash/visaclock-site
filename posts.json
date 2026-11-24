@@ -2,6 +2,23 @@
   "updated": "2026-11-23",
   "posts": [
     {
+      "id": "2026-11-23-ice-stop-4-things",
+      "date": "2026-11-23",
+      "order": 12,
+      "category": "tips",
+      "tag": "Video",
+      "title": "Don't panic if ICE stops you: 4 things to do",
+      "summary": "Stay calm, use your right to stay silent and ask for a lawyer, never lie or sign what you don't understand, and if you have valid papers, show them when an immigration officer asks. Noncitizens over 18 are required to carry their immigration documents.",
+      "links": [
+        {
+          "label": "ACLU: Know Your Rights for immigrants",
+          "url": "https://www.aclu.org/know-your-rights/immigrants-rights"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgGs8WKiqb3/"
+    },
+    {
       "id": "2026-11-23-ai-fewer-beginners",
       "date": "2026-11-23",
       "order": 11,
