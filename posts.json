@@ -2,6 +2,23 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-states-sue-spacex-grok",
+      "date": "2026-11-24",
+      "order": 7,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "Virginia and Oregon sue SpaceX over Grok deepfakes",
+      "summary": "Virginia and Oregon became the first US states to sue SpaceX over sexualized deepfakes made with its Grok AI tool, saying the company marketed Grok and X as safe. They are using consumer protection laws and seek civil penalties and court orders.",
+      "links": [
+        {
+          "label": "HNGN: Virginia, Oregon sue SpaceX over Grok",
+          "url": "https://www.hngn.com/articles/273946/20261124/virginia-oregon-sue-spacex-over-grok-sexual-deepfakes.htm"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgIuifBGdtM/"
+    },
+    {
       "id": "2026-11-24-ai-insiders-unreleased-models",
       "date": "2026-11-24",
       "order": 6,
