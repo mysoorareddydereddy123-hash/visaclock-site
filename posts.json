@@ -2,6 +2,27 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-chip-stocks-slide",
+      "date": "2026-11-24",
+      "order": 4,
+      "category": "news",
+      "tag": "Markets",
+      "title": "Chip stocks slide a day after Nvidia's 31% jump",
+      "summary": "Chip stocks gave back part of Monday's rally on Tuesday morning. Nvidia fell more than 5% after jumping about 31% on Monday when its board reinstated Jensen Huang as CEO, and AMD and Micron were down about 8%.",
+      "links": [
+        {
+          "label": "StockTitan: Stock market today, Nov 24, 2026",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
+        },
+        {
+          "label": "Yahoo Finance: Stock market today live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgIZ_eTjnMp/"
+    },
+    {
       "id": "2026-11-24-chatgpt-gpt62-sol-default",
       "date": "2026-11-24",
       "order": 3,
