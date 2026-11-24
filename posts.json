@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "posts": [
+    {
+      "id": "2026-11-24-sanofi-insmed",
+      "date": "2026-11-24",
+      "order": 1,
+      "category": "news",
+      "tag": "Markets",
+      "title": "Sanofi is buying US drugmaker Insmed for $41 billion",
+      "summary": "Sanofi agreed to pay $175 a share in cash for New Jersey-based Insmed, maker of the lung-disease drug Brinsupri. The deal still needs shareholder and regulatory approval and is expected to close in the first half of 2027.",
+      "links": [
+        {
+          "label": "Sanofi press release (SEC filing)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1121404/000119312526473314/d130092dex991.htm"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgIFjMckxEj/"
+    },
     {
       "id": "2026-11-23-ice-stop-4-things",
       "date": "2026-11-23",
