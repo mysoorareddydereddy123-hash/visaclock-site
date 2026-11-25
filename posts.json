@@ -2,9 +2,30 @@
   "updated": "2026-11-25",
   "posts": [
     {
-      "id": "2026-11-25-pce-inflation-tech-selloff",
+      "id": "2026-11-25-tidal-ai-music-ban",
       "date": "2026-11-25",
       "order": 1,
+      "category": "news",
+      "tag": "AI & TECH",
+      "title": "Tidal will delete fully AI-made songs from Dec 9",
+      "summary": "Starting Dec 9, Tidal will remove tracks it finds are 100% AI-generated and reject new ones, about 29 million songs by early 2027. Music made by people with help from AI tools can stay.",
+      "links": [
+        {
+          "label": "Tech Times: Tidal bans fully AI-generated music",
+          "url": "https://www.techtimes.com/articles/331493/20261125/tidal-bans-ai-generated-music-streaming-platform-begins-purging-27-million-songs.htm"
+        },
+        {
+          "label": "Tidal AI Policy",
+          "url": "https://tidal.com/ai-policy"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgK332Gy52K/"
+    },
+    {
+      "id": "2026-11-25-pce-inflation-tech-selloff",
+      "date": "2026-11-25",
+      "order": 2,
       "category": "news",
       "tag": "MONEY",
       "title": "Inflation hits 3.8% as tech stocks slide again",
@@ -25,7 +46,7 @@
     {
       "id": "2026-11-25-huawei-convicted",
       "date": "2026-11-25",
-      "order": 2,
+      "order": 3,
       "category": "news",
       "tag": "Tech",
       "title": "US jury convicts Huawei on 10 of 12 counts",
