@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "posts": [
+    {
+      "id": "2026-11-25-huawei-convicted",
+      "date": "2026-11-25",
+      "order": 1,
+      "category": "news",
+      "tag": "Tech",
+      "title": "US jury convicts Huawei on 10 of 12 counts",
+      "summary": "A Brooklyn federal jury found Huawei and three subsidiaries guilty of bank fraud, wire fraud, Iran sanctions violations and conspiring to steal US trade secrets, but acquitted it of racketeering conspiracy and obstruction. Huawei disputes the convictions and expects to appeal.",
+      "links": [
+        {
+          "label": "Reuters (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/us/articles/chinas-huawei-convicted-us-criminal-201624138.html"
+        },
+        {
+          "label": "Fox Business",
+          "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgKqhTbuIt3/"
+    },
     {
       "id": "2026-11-24-f1-interview-4-questions",
       "date": "2026-11-24",
