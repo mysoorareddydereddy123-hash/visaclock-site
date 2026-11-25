@@ -2,9 +2,30 @@
   "updated": "2026-11-25",
   "posts": [
     {
-      "id": "2026-11-25-huawei-convicted",
+      "id": "2026-11-25-pce-inflation-tech-selloff",
       "date": "2026-11-25",
       "order": 1,
+      "category": "news",
+      "tag": "MONEY",
+      "title": "Inflation hits 3.8% as tech stocks slide again",
+      "summary": "The PCE price index, the Fed's preferred inflation gauge, rose 3.8% in the year to October, with core prices up 3.3%, above forecasts; markets expect a Fed rate hike at the Dec 8-9 meeting. The AI sell-off deepened on Wednesday morning, led by Nvidia.",
+      "links": [
+        {
+          "label": "StockAnalysis: October PCE report",
+          "url": "https://stockanalysis.com/news/us-pce-inflation-october-2026/"
+        },
+        {
+          "label": "Forbes: Nvidia down 6% premarket",
+          "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/25/nvidia-down-6-in-premarket-trading-as-ai-selloff-deepens/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgKxCXDi9Se/"
+    },
+    {
+      "id": "2026-11-25-huawei-convicted",
+      "date": "2026-11-25",
+      "order": 2,
       "category": "news",
       "tag": "Tech",
       "title": "US jury convicts Huawei on 10 of 12 counts",
