@@ -2,6 +2,23 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-nasdaq-100-bear-market",
+      "date": "2026-11-25",
+      "order": 6,
+      "category": "news",
+      "tag": "Markets",
+      "title": "The Nasdaq 100 is now 20% below its October record",
+      "summary": "The tech-heavy index fell about 4.7% by midday Wednesday, putting it 20% below its early-October high and on track for its first bear market since April 2025. More than $8.5 trillion in value has been erased, led by chipmakers.",
+      "links": [
+        {
+          "label": "Stocktwits: Nasdaq 100 drops 20% from October highs",
+          "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-flirts-with-bear-market-territory-drops-20-from-october-highs/cNbHVpRR9mM"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgLMqsusyFS/"
+    },
+    {
       "id": "2026-11-25-cia-odni-ai-hack",
       "date": "2026-11-25",
       "order": 5,
