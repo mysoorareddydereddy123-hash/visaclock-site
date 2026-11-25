@@ -2,6 +2,22 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-ny-ai-chatbot-toy-ban",
+      "date": "2026-11-25",
+      "order": 7,
+      "category": "news",
+      "tag": "AI ALERT",
+      "title": "New York bans AI chatbot toys for 5 years starting 2027",
+      "summary": "Gov. Kathy Hochul signed a five-year moratorium on making, distributing or selling toys with built-in AI chatbots in New York. It takes effect 90 days after signing (Feb 22, 2027), so this holiday season is not affected.",
+      "links": [
+        {
+          "label": "Governor Hochul's announcement",
+          "url": "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-consumers-begin-their-holiday-shopping-season-governor"
+        }
+      ],
+      "instagram": "https://www.instagram.com/reel/DgLTa6zA-AM/"
+    },
+    {
       "id": "2026-11-25-nasdaq-100-bear-market",
       "date": "2026-11-25",
       "order": 6,
