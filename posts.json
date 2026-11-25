@@ -2,6 +2,23 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-thanksgiving-storm-flights",
+      "date": "2026-11-24",
+      "order": 11,
+      "category": "travel",
+      "tag": "Travel",
+      "title": "417,000 holiday flights meet a big East Coast storm",
+      "summary": "The FAA expects its busiest Thanksgiving travel period in 16 years, with more than 417,000 flights over nine days. A coastal storm brings rain to the Southeast, including Atlanta, on Wednesday, then heavy rain and strong winds from DC to Boston on Thanksgiving Day.",
+      "links": [
+        {
+          "label": "Reuters (via Yahoo): East Coast storm to bring rain, strong winds on US Thanksgiving",
+          "url": "https://www.yahoo.com/news/weather-news/articles/east-coast-storm-bring-rain-213754031.html"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/DgJRqMGJTId/"
+    },
+    {
       "id": "2026-11-24-cdc-ebola-entry-rule",
       "date": "2026-11-24",
       "order": 10,
