@@ -2,6 +2,27 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-dow-thanksgiving-eve-rebound",
+      "date": "2026-11-25",
+      "order": 9,
+      "category": "news",
+      "tag": "Markets",
+      "title": "The Dow erased a 1,000-point drop and closed higher",
+      "summary": "Stocks fell sharply at the open on hot October inflation data and new tariff plans, then recovered: the Dow closed up 0.3% near 50,182, while the S&P 500 fell 0.3% and the Nasdaq 0.6%. US markets are closed Thursday and close at 1 pm ET on Friday.",
+      "links": [
+        {
+          "label": "Kiplinger: Stock market today",
+          "url": "https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today"
+        },
+        {
+          "label": "Yahoo Finance: Markets live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgLhGOhpWnn/"
+    },
+    {
       "id": "2026-11-25-december-visa-bulletin-late",
       "date": "2026-11-25",
       "order": 8,
