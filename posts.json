@@ -2,6 +2,27 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-cia-odni-ai-hack",
+      "date": "2026-11-25",
+      "order": 5,
+      "category": "news",
+      "tag": "AI ALERT",
+      "title": "Hackers broke into a CIA intel system, reportedly using an AI tool",
+      "summary": "Hackers breached an unclassified open-source intelligence system used by the CIA and ODNI, first reported by The New York Times. Sources say classified systems were not affected, and investigators reportedly suspect an AI hacking tool.",
+      "links": [
+        {
+          "label": "Nextgov/FCW",
+          "url": "https://www.nextgov.com/cybersecurity/2026/11/cia-odni-unclassified-intelligence-system-hacked/417438/"
+        },
+        {
+          "label": "CyberScoop",
+          "url": "https://cyberscoop.com/cia-odni-osint-data-breach/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgLFpsvAx6L/"
+    },
+    {
       "id": "2026-11-25-new-tariffs-14-economies",
       "date": "2026-11-25",
       "order": 4,
