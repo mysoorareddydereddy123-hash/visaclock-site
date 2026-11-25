@@ -2,9 +2,30 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-new-tariffs-14-economies",
+      "date": "2026-11-25",
+      "order": 4,
+      "category": "news",
+      "tag": "MARKETS",
+      "title": "US proposes new tariffs of up to 20% on 14 economies",
+      "summary": "The Trump administration proposed tariffs of up to 20% on China, the EU, India and 11 other trading partners after a probe into excess manufacturing. They are proposals for now and could start in January at the earliest.",
+      "links": [
+        {
+          "label": "Washington Post (AP): US plans to hike tariffs on China, EU and others",
+          "url": "https://www.washingtonpost.com/politics/2026/11/25/trump-tariffs-china-european-union/df630b40-e8d1-11f1-8db0-6f1e3c389e7c_story.html"
+        },
+        {
+          "label": "The Hill: Trump administration rolls out new tariffs on China, EU",
+          "url": "https://thehill.com/homenews/administration/6242105-trump-administration-new-tariffs-china-european-union/amp/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgK-6GuTfXK/"
+    },
+    {
       "id": "2026-11-25-tidal-ai-music-ban",
       "date": "2026-11-25",
-      "order": 1,
+      "order": 3,
       "category": "news",
       "tag": "AI & TECH",
       "title": "Tidal will delete fully AI-made songs from Dec 9",
@@ -46,7 +67,7 @@
     {
       "id": "2026-11-25-huawei-convicted",
       "date": "2026-11-25",
-      "order": 3,
+      "order": 1,
       "category": "news",
       "tag": "Tech",
       "title": "US jury convicts Huawei on 10 of 12 counts",
