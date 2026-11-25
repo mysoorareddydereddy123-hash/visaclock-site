@@ -2,6 +2,31 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-december-visa-bulletin-late",
+      "date": "2026-11-25",
+      "order": 8,
+      "category": "visa",
+      "tag": "VISA UPDATE",
+      "title": "The December Visa Bulletin is late. November dates still apply",
+      "summary": "The State Department has not yet published the December 2026 Visa Bulletin and has given no release date. Until it does, November's charts are the latest official dates; attorneys advise anyone current under November's chart not to wait.",
+      "links": [
+        {
+          "label": "State Dept: Visa Bulletin index",
+          "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html"
+        },
+        {
+          "label": "MVP Law Group: December Visa Bulletin is late",
+          "url": "https://www.h1bvisalawyerblog.com/december-visa-bulletin-is-late/"
+        },
+        {
+          "label": "Immigration Analytics: December 2026 tracker",
+          "url": "https://immigration-analytics.com/2026/11/08/december-2026-visa-bulletin/"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgLaNtSBcC0/"
+    },
+    {
       "id": "2026-11-25-ny-ai-chatbot-toy-ban",
       "date": "2026-11-25",
       "order": 7,
