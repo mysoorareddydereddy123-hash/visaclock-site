@@ -2,6 +2,23 @@
   "updated": "2026-11-24",
   "posts": [
     {
+      "id": "2026-11-24-f1-interview-4-questions",
+      "date": "2026-11-24",
+      "order": 12,
+      "category": "tips",
+      "tag": "Video",
+      "title": "F-1 visa interview: 4 questions officers often ask",
+      "summary": "Why this university, who is paying, why this course, and what you will do after graduation. Short, honest answers in your own words work better than memorized speeches. Not legal advice.",
+      "links": [
+        {
+          "label": "travel.state.gov: Student visa",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgJRy1XFFxW/"
+    },
+    {
       "id": "2026-11-24-thanksgiving-storm-flights",
       "date": "2026-11-24",
       "order": 11,
