@@ -2,6 +2,27 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-macys-parade-postponed",
+      "date": "2026-11-25",
+      "order": 10,
+      "category": "news",
+      "tag": "NEWS",
+      "title": "Macy's 100th Thanksgiving Day Parade moved to Saturday over a storm",
+      "summary": "Macy's, NBC and New York City moved the parade to Saturday, Nov 28 at 8:30 a.m. ET as 50-60 mph gusts and heavy rain are expected Thursday. It's the first weather postponement in the parade's history.",
+      "links": [
+        {
+          "label": "AP via PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/macys-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather"
+        },
+        {
+          "label": "ABC7 New York",
+          "url": "https://abc7ny.com/story/will-macys-parade-balloons-fly-storm-wind-rain-puts-doubt/20078423/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgLoD9wBbbx/"
+    },
+    {
       "id": "2026-11-25-dow-thanksgiving-eve-rebound",
       "date": "2026-11-25",
       "order": 9,
