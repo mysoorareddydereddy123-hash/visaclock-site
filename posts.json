@@ -2,6 +2,27 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-sap-10000-job-cuts-ai",
+      "date": "2026-11-26",
+      "order": 8,
+      "category": "news",
+      "tag": "Layoffs",
+      "title": "SAP may cut at least 10,000 jobs in an AI overhaul, Bloomberg reports",
+      "summary": "Bloomberg reports SAP is preparing to cut at least 10,000 positions, at least 9% of its 110,000+ staff, with product, engineering and sales in focus. SAP has not confirmed any cuts.",
+      "links": [
+        {
+          "label": "The Next Web report",
+          "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg"
+        },
+        {
+          "label": "Bloomberg report",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgN4P8_BESP/"
+    },
+    {
       "id": "2026-11-26-h1b-stamping-backlog-khanna",
       "date": "2026-11-26",
       "order": 7,
