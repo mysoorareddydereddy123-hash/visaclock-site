@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "posts": [
+    {
+      "id": "2026-11-26-birthright-order-blocked",
+      "date": "2026-11-26",
+      "order": 1,
+      "category": "visa",
+      "tag": "Court ruling",
+      "title": "A second judge blocks Trump's newer birthright citizenship order",
+      "summary": "On Nov 25, Judge Christopher Cooper (D.C.) issued a preliminary injunction in a class action against the August executive order, which targeted birth tourism and children of some foreign-government workers. A Maryland judge had already blocked it in September; an appeal is possible.",
+      "links": [
+        {
+          "label": "Reuters (via AOL): second judge blocks order",
+          "url": "https://www.aol.com/articles/trumps-newest-order-curtailing-birthright-213029000.html"
+        },
+        {
+          "label": "ABC News: judge blocks latest effort",
+          "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgNPGKdBrzK/"
+    },
     {
       "id": "2026-11-25-h1b-stamping-4-questions",
       "date": "2026-11-25",
