@@ -2,6 +2,23 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-characterai-chat-auction",
+      "date": "2026-11-26",
+      "order": 9,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "Chats from 21M Character.AI accounts could be auctioned Dec 1; 42 state AGs object",
+      "summary": "Bankrupt Character.AI plans a December 1 auction that state AGs say includes chat histories from more than 21 million US accounts, over 2.1 million registered to minors. A coalition of 42 attorneys general has asked the bankruptcy court to block the sale.",
+      "links": [
+        {
+          "label": "TechCrunch report",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgN_GbdwL5H/"
+    },
+    {
       "id": "2026-11-26-sap-10000-job-cuts-ai",
       "date": "2026-11-26",
       "order": 8,
