@@ -2,6 +2,44 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-h1b-stamping-carousel",
+      "date": "2026-11-26",
+      "order": 5,
+      "category": "tips",
+      "tag": "Guide",
+      "title": "H-1B stamping: 4 questions you must answer right",
+      "summary": "Expect questions on your employer, your job, your salary and where you will actually work, and keep your answers consistent with your I-797, offer letter and DS-160. Since Dec 15, 2025, H-1B and H-4 applicants also go through an online presence review and are told to set social media profiles to public.",
+      "links": [
+        {
+          "label": "Berkeley International Office: online presence review for H-1B/H-4",
+          "url": "https://internationaloffice.berkeley.edu/news/expansion-online-presence-review-h-1b-applicants-and-h-4-dependents"
+        },
+        {
+          "label": "Harvard International Office: administrative processing FAQ",
+          "url": "https://www.hio.harvard.edu/resources/faq/administrative-processing"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/p/DgNl8wAFFr-/"
+    },
+    {
+      "id": "2026-11-26-nvidia-chips-chinese-owned-firms",
+      "date": "2026-11-26",
+      "order": 4,
+      "category": "news",
+      "tag": "AI & TECH",
+      "title": "CBS: 2 Chinese-owned US firms are buying Nvidia's top AI chips",
+      "summary": "A CBS News investigation found at least two California companies controlled by Chinese-owned firms with access to Nvidia's high-end chips, including a 'preferred' partner, RiCloud AI. A New York Times trade-record analysis cited by CBS found Aivres shipped about $3 billion of Blackwell-chip servers to Southeast Asia; Blackwell exports to China are restricted.",
+      "links": [
+        {
+          "label": "CBS News (via Yahoo): US-based firms helping China access Nvidia's chips",
+          "url": "https://www.yahoo.com/news/us/articles/u-based-firms-helping-china-231000916.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgNk7d-hgCp/"
+    },
+    {
       "id": "2026-11-26-spacex-1m-satellites",
       "date": "2026-11-26",
       "order": 3,
