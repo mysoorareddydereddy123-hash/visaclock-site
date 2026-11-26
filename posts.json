@@ -2,6 +2,23 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-h1b-stamping-4-questions",
+      "date": "2026-11-25",
+      "order": 12,
+      "category": "tips",
+      "tag": "Video",
+      "title": "H-1B stamping: 4 questions to prepare for",
+      "summary": "Employer, job title, salary and work location: your answers should match your I-797 and offer letter. Mismatches can lead to 221(g) administrative processing.",
+      "links": [
+        {
+          "label": "State Dept: administrative processing (221(g))",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/administrative-processing-information.html"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgMEsqSh5-4/"
+    },
+    {
       "id": "2026-11-25-ai-control-debate",
       "date": "2026-11-25",
       "order": 11,
