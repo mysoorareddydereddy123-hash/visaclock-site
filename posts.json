@@ -2,6 +2,23 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-anthropic-study-hiring-less",
+      "date": "2026-11-26",
+      "order": 10,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "Few AI layoffs, but 2 in 3 firms in a new Anthropic study say they're hiring less",
+      "summary": "Anthropic interviewed people at 58 US companies that use its AI: two-thirds reported hiring less because of AI, only 2 had AI fully eliminate a position, and 10 were hiring more. Nine companies cut contractors, many of them offshore.",
+      "links": [
+        {
+          "label": "Anthropic: Working with AI (study)",
+          "url": "https://www.anthropic.com/research/working-with-ai"
+        }
+      ],
+      "image": "img/hiring.jpg",
+      "instagram": "https://www.instagram.com/reel/DgOF5-oSQx6/"
+    },
+    {
       "id": "2026-11-26-characterai-chat-auction",
       "date": "2026-11-26",
       "order": 9,
