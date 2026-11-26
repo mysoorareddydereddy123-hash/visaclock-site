@@ -2,6 +2,23 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-online-spending-82-5b",
+      "date": "2026-11-26",
+      "order": 2,
+      "category": "news",
+      "tag": "MONEY",
+      "title": "Shoppers spent $82.5 billion online before Thanksgiving even began",
+      "summary": "Adobe Analytics says US online spending hit $82.5 billion from Nov 1 to Nov 22, up 9.1% from last year, with AI-referred retail visits up 127%. Adobe expects $12.9 billion online on Black Friday and $15.1 billion on Cyber Monday.",
+      "links": [
+        {
+          "label": "Digital Commerce 360: Adobe holiday spending data",
+          "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgNV1vPhED0/"
+    },
+    {
       "id": "2026-11-26-birthright-order-blocked",
       "date": "2026-11-26",
       "order": 1,
