@@ -2,6 +2,23 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-h1b-stamping-backlog-khanna",
+      "date": "2026-11-26",
+      "order": 7,
+      "category": "visa",
+      "tag": "Visa update",
+      "title": "H-1B workers stuck abroad for months as a congressman presses the State Department on visa slots",
+      "summary": "Rep. Ro Khanna urged the State Department to clear visa appointment backlogs and add slots. A September 2026 GAO report found nonimmigrant visa consular officers fell from 1,342 in FY2024 to 904 in FY2025.",
+      "links": [
+        {
+          "label": "Business Standard report",
+          "url": "https://www.business-standard.com/immigration/h-1b-visa-delays-leave-skilled-workers-stranded-abroad-says-us-congressman-126112600907_1.html"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgNxR9burMQ/"
+    },
+    {
       "id": "2026-11-26-kroger-h1b-scrutiny",
       "date": "2026-11-26",
       "order": 6,
