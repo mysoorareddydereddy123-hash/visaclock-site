@@ -2,6 +2,27 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-spacex-1m-satellites",
+      "date": "2026-11-26",
+      "order": 3,
+      "category": "news",
+      "tag": "AI & TECH",
+      "title": "FCC clears up to 1 million SpaceX satellites for AI data centers in space",
+      "summary": "The FCC conditionally approved SpaceX's Starmind orbital data center constellation on Nov 25. SpaceX has 7 years to launch its first operational satellite and 14 years to deploy the full network; Amazon's satellite unit and Viasat had opposed it.",
+      "links": [
+        {
+          "label": "CNBC: SpaceX wins FCC approval",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "label": "TechCrunch: FCC approves SpaceX plan",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgNcqzLlTsm/"
+    },
+    {
       "id": "2026-11-26-online-spending-82-5b",
       "date": "2026-11-26",
       "order": 2,
