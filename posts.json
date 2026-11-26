@@ -2,6 +2,27 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-kroger-h1b-scrutiny",
+      "date": "2026-11-26",
+      "order": 6,
+      "category": "visa",
+      "tag": "H-1B",
+      "title": "Kroger is cutting 3,000 jobs, and its H-1B filings now face scrutiny",
+      "summary": "The Labor Department's inspector general pointed to Kroger's planned corporate job cuts alongside its continued H-1B and PERM filings; he did not say Kroger is under investigation. USCIS data shows 61 H-1B approvals for Kroger in FY2026.",
+      "links": [
+        {
+          "label": "Newsweek report",
+          "url": "https://www.newsweek.com/kroger-targeted-over-h-1b-visa-filings-amid-mass-layoffs-12771011"
+        },
+        {
+          "label": "Fortune: Kroger's 3,000 job cuts",
+          "url": "https://fortune.com/2026/10/14/kroger-ai-3000-corporate-job-cuts-grocery-prices/"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgNqeGWBMxs/"
+    },
+    {
       "id": "2026-11-26-h1b-stamping-carousel",
       "date": "2026-11-26",
       "order": 5,
