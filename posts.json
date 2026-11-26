@@ -2,6 +2,23 @@
   "updated": "2026-11-25",
   "posts": [
     {
+      "id": "2026-11-25-ai-control-debate",
+      "date": "2026-11-25",
+      "order": 11,
+      "category": "news",
+      "tag": "AI ALERT",
+      "title": "AI leaders clash over who stays in control: humans or AI",
+      "summary": "Axios reported that rival AI leaders are pushing back on a view it says is common inside Anthropic about handing some decisions to superintelligent AI. Anthropic CEO Dario Amodei replied that turning governance over to AI would be a terrible idea.",
+      "links": [
+        {
+          "label": "Forbes: Amodei rejects the 'free will' claim",
+          "url": "https://finance.yahoo.com/technology/ai/articles/dario-amodei-rejects-idea-wants-194249455.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgL8ugFuJuM/"
+    },
+    {
       "id": "2026-11-25-macys-parade-postponed",
       "date": "2026-11-25",
       "order": 10,
