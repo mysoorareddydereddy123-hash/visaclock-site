@@ -2,6 +2,27 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-fincen-breach",
+      "date": "2026-11-26",
+      "order": 11,
+      "category": "news",
+      "tag": "Cybersecurity",
+      "title": "Hackers got into the Treasury unit that tracks money laundering",
+      "summary": "FinCEN says an intruder accessed a limited subset of its systems and it took some systems offline. Eligible filings and updates due Nov 18 to Dec 29 now have until Dec 30.",
+      "links": [
+        {
+          "label": "Government Executive: FinCEN takes systems offline after hack",
+          "url": "https://www.govexec.com/technology/2026/11/treasurys-financial-crimes-bureau-takes-systems-offline-after-hack/417443/"
+        },
+        {
+          "label": "Help Net Security: FinCEN breach and deadline relief",
+          "url": "https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgOM049Nd6j/"
+    },
+    {
       "id": "2026-11-26-anthropic-study-hiring-less",
       "date": "2026-11-26",
       "order": 10,
