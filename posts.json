@@ -2,6 +2,31 @@
   "updated": "2026-11-27",
   "posts": [
     {
+      "id": "2026-11-27-ai-shopping-trust",
+      "date": "2026-11-27",
+      "order": 2,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "54% of US adults have shopped with AI, but only 23% trust it to pay",
+      "summary": "Black Friday weekend is the biggest test yet for AI shopping agents. A Morning Consult poll for Visa found 54% of US adults have used AI for a shopping task, while only 23% trust gen AI to handle payments; in Visa's benchmark, 22 AI models passed about 57% of shopping tests.",
+      "links": [
+        {
+          "label": "Fortune: Black Friday will put AI shopping agents to the test",
+          "url": "https://fortune.com/2026/11/27/black-friday-ai-agentic-shopping-consumer-trust/"
+        },
+        {
+          "label": "Visa: 2026 Holiday Spending Shift Survey",
+          "url": "https://corporate.visa.com/en/sites/visa-perspectives/newsroom/secret-santai-visa-survey-finds-americans-turning-to-ai-for-holiday-help.html"
+        },
+        {
+          "label": "Visa: Agentic Commerce Benchmark results",
+          "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22936.html"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgP6pV_xpQT/"
+    },
+    {
       "id": "2026-11-27-thanksgiving-storm-outages",
       "date": "2026-11-27",
       "order": 1,
