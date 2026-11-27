@@ -2,6 +2,27 @@
   "updated": "2026-11-27",
   "posts": [
     {
+      "id": "2026-11-27-whatsapp-travel-esim",
+      "date": "2026-11-27",
+      "order": 9,
+      "category": "travel",
+      "tag": "Travel",
+      "title": "WhatsApp will sell travel data eSIMs inside the app",
+      "summary": "WhatsApp announced Travel eSIM, letting you buy and install a data eSIM for trips abroad without leaving the app while keeping your usual number. Partners include Jio and Verizon; prices and launch countries aren't out yet.",
+      "links": [
+        {
+          "label": "GSMArena report",
+          "url": "https://www.gsmarena.com/whatsapp_travel_esim_feature-news-75665.php"
+        },
+        {
+          "label": "Startup Fortune explainer",
+          "url": "https://startupfortune.com/whatsapp-will-sell-travel-esims-inside-its-app-and-put-airalo-on-notice/"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/DgQkIg6oIJm/"
+    },
+    {
       "id": "2026-11-27-eb1a-approvals-32-percent",
       "date": "2026-11-27",
       "order": 8,
