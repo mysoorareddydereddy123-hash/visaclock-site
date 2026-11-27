@@ -2,6 +2,27 @@
   "updated": "2026-11-27",
   "posts": [
     {
+      "id": "2026-11-27-black-friday-stocks-rally",
+      "date": "2026-11-27",
+      "order": 7,
+      "category": "news",
+      "tag": "Markets",
+      "title": "Stocks rally on Black Friday; Dow logs its best week since April 2025",
+      "summary": "In a shortened session, the Nasdaq rose 2.31%, the S&P 500 1.6% and the Dow about 1.2%. The Dow ended the week up about 5%, its biggest weekly gain since April 2025, after Nvidia reinstated Jensen Huang as CEO on Monday.",
+      "links": [
+        {
+          "label": "TipRanks: market close",
+          "url": "https://www.tipranks.com/news/u-s-market-closes-sharply-higher-to-end-volatile-week-on-wall-street"
+        },
+        {
+          "label": "Quartz: Black Friday stocks",
+          "url": "https://qz.com/stocks-rise-black-friday-shortened-volatile-week-112726"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgQWirkhogt/"
+    },
+    {
       "id": "2026-11-27-thanksgiving-online-record",
       "date": "2026-11-27",
       "order": 6,
