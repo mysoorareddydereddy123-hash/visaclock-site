@@ -1,6 +1,31 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "posts": [
+    {
+      "id": "2026-11-27-thanksgiving-storm-outages",
+      "date": "2026-11-27",
+      "order": 1,
+      "category": "news",
+      "tag": "News",
+      "title": "Thanksgiving storm cut power to nearly 1 million; 600,000+ still dark Friday",
+      "summary": "Wind gusts up to 70 mph knocked out power to about 961,000 customers at the peak on Thursday evening, with Pennsylvania, New Jersey, Maryland and Virginia hit hardest. More than 600,000 were still without power Friday morning; check your flight or train before heading back to campus.",
+      "links": [
+        {
+          "label": "The Weather Channel: Thanksgiving storm leaves damage along the East Coast",
+          "url": "https://weather.com/2026/11/26/news/weather/east-coast-thanksgiving-storm-flooding-winds"
+        },
+        {
+          "label": "ABC7: Heavy rain, wind, flooding hit much of US on Thanksgiving",
+          "url": "https://abc7.com/post/severe-weather-heavy-rain-wind-flooding-hit-us-thanksgiving-snarling-holiday-travel-knocking-power/20089852/"
+        },
+        {
+          "label": "PowerOutage.us: live outage map",
+          "url": "https://poweroutage.us/"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgP0GaNhizl/"
+    },
     {
       "id": "2026-11-26-landing-from-india",
       "date": "2026-11-26",
