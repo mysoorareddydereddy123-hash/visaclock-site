@@ -2,6 +2,26 @@
   "updated": "2026-11-27",
   "posts": [
     {
+      "id": "2026-11-27-air-force-cloud-one-hack",
+      "date": "2026-11-27",
+      "order": 3,
+      "category": "news",
+      "tag": "AI & Tech",
+      "title": "Hackers breached the Air Force's Cloud One cloud platform",
+      "summary": "Reuters reports hackers reached the control plane of Cloud One, which runs Air Force personnel, pay, logistics and air defense apps; Cyber Command is assessing the damage. Who did it and whether data was stolen is unknown.",
+      "links": [
+        {
+          "label": "Reuters via Military Times",
+          "url": "https://www.militarytimes.com/news/your-military/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/"
+        },
+        {
+          "label": "The Hill",
+          "url": "https://thehill.com/policy/defense/6245197-air-force-cloud-one-hack/"
+        }
+      ],
+      "instagram": "https://www.instagram.com/reel/DgQBlUMN7L9/"
+    },
+    {
       "id": "2026-11-27-ai-shopping-trust",
       "date": "2026-11-27",
       "order": 2,
