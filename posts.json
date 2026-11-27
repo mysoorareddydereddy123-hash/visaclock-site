@@ -2,6 +2,27 @@
   "updated": "2026-11-27",
   "posts": [
     {
+      "id": "2026-11-27-eb1a-approvals-32-percent",
+      "date": "2026-11-27",
+      "order": 8,
+      "category": "visa",
+      "tag": "Visa update",
+      "title": "Only 32% of EB-1A \"extraordinary ability\" green card petitions are now approved",
+      "summary": "USCIS approved 32.2% of EB-1A petitions in April-June 2026 (1,348 approved, 2,832 denied), down from about 67% in fiscal 2025. The Washington Post reports attorneys blame a stricter, more subjective final merits review; DHS did not comment.",
+      "links": [
+        {
+          "label": "Washington Post report",
+          "url": "https://washingtonpost.com/business/2026/11/27/trump-administration-has-escalated-denials-einstein-visa"
+        },
+        {
+          "label": "USCIS EB-1 data breakdown (Manifest Law)",
+          "url": "https://manifestlaw.com/blog/eb1-approval-rate"
+        }
+      ],
+      "image": "img/grace.jpg",
+      "instagram": "https://www.instagram.com/reel/DgQc9wGA_gg/"
+    },
+    {
       "id": "2026-11-27-black-friday-stocks-rally",
       "date": "2026-11-27",
       "order": 7,
