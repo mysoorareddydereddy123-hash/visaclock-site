@@ -2,6 +2,44 @@
   "updated": "2026-11-27",
   "posts": [
     {
+      "id": "2026-11-27-f1-landing-carousel",
+      "date": "2026-11-27",
+      "order": 5,
+      "category": "tips",
+      "tag": "Guide",
+      "title": "Landing in the US on F-1: 4 things the officer checks first",
+      "summary": "Carry your passport with F-1 visa, printed I-20, proof of funds and your DSO's contact details in your carry-on. New students may enter no more than 30 days before the I-20 program start date; check your I-94 online after you land.",
+      "links": [
+        {
+          "label": "Study in the States: F-1 guide",
+          "url": "https://studyinthestates.dhs.gov/guide/f-1/f-1-postsecondary"
+        },
+        {
+          "label": "USC OIS: Entering the United States",
+          "url": "https://ois.usc.edu/travel/entering-united-states/"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/p/DgQIsOtoZnD/"
+    },
+    {
+      "id": "2026-11-27-december-visa-bulletin",
+      "date": "2026-11-27",
+      "order": 4,
+      "category": "visa",
+      "tag": "Visa Update",
+      "title": "December Visa Bulletin: India EB-1, EB-2, EB-3 dates unchanged",
+      "summary": "Business Today reports the State Department has released the December 2026 Visa Bulletin with India Final Action Dates unchanged: EB-1 Feb 1, 2023, EB-2 Nov 1, 2013, EB-3 Jan 22, 2014. Check which chart USCIS accepts before filing.",
+      "links": [
+        {
+          "label": "Business Today: December 2026 Visa Bulletin",
+          "url": "https://www.businesstoday.in/nri/visa/story/us-visa-bulletin-december-2026-india-eb-1-eb-2-eb-3-dates-unchanged-check-details-570045-2026-11-27"
+        }
+      ],
+      "image": "img/visa.jpg",
+      "instagram": "https://www.instagram.com/reel/DgQIct2pW9a/"
+    },
+    {
       "id": "2026-11-27-air-force-cloud-one-hack",
       "date": "2026-11-27",
       "order": 3,
