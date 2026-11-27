@@ -2,6 +2,27 @@
   "updated": "2026-11-26",
   "posts": [
     {
+      "id": "2026-11-26-landing-from-india",
+      "date": "2026-11-26",
+      "order": 12,
+      "category": "tips",
+      "tag": "Video",
+      "title": "Landing in the US on an F-1? Have these 4 things ready",
+      "summary": "Passport with a valid F-1 visa, a printed and signed I-20, proof of funds and school contacts, and short, true answers. Keep documents in your carry-on and check your I-94 after landing.",
+      "links": [
+        {
+          "label": "Study in the States: F-1 guide (arrival up to 30 days before start date)",
+          "url": "https://studyinthestates.dhs.gov/guide/f-1/f-1-postsecondary"
+        },
+        {
+          "label": "USC OIS: Entering the United States",
+          "url": "https://ois.usc.edu/travel/entering-united-states/"
+        }
+      ],
+      "image": "img/travel.jpg",
+      "instagram": "https://www.instagram.com/reel/DgOoUiOswMy/"
+    },
+    {
       "id": "2026-11-26-fincen-breach",
       "date": "2026-11-26",
       "order": 11,
