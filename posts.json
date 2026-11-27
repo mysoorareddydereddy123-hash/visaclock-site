@@ -2,6 +2,23 @@
   "updated": "2026-11-27",
   "posts": [
     {
+      "id": "2026-11-27-thanksgiving-online-record",
+      "date": "2026-11-27",
+      "order": 6,
+      "category": "news",
+      "tag": "Money",
+      "title": "Shoppers spent a record $7.1B online on Thanksgiving",
+      "summary": "Adobe Analytics says US online spending on Thanksgiving hit $7.1 billion, up 10.4% and above its forecast. Adobe expects a record $12.9 billion on Black Friday and $15.1 billion on Cyber Monday.",
+      "links": [
+        {
+          "label": "Seeking Alpha: Thanksgiving delivered record $7.1B",
+          "url": "https://seekingalpha.com/news/4677049-black-friday-came-early-for-retailers-as-thanksgiving-delivered-record-71b-in-sales"
+        }
+      ],
+      "image": "img/city.jpg",
+      "instagram": "https://www.instagram.com/reel/DgQPU3hBGUa/"
+    },
+    {
       "id": "2026-11-27-f1-landing-carousel",
       "date": "2026-11-27",
       "order": 5,
