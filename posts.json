@@ -1,6 +1,31 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "posts": [
+    {
+      "id": "2026-11-28-opt-unpaid-work-90-day-clock",
+      "date": "2026-11-28",
+      "order": 1,
+      "category": "tips",
+      "tag": "Video",
+      "title": "Day 84 of 90 on OPT: when unpaid work stops the unemployment clock",
+      "summary": "Unpaid internships and volunteer roles can count as post-completion OPT employment if they are directly related to your degree and at least 20 hours a week; volunteering outside your field doesn't stop the 90-day clock. On STEM OPT, the job must be paid.",
+      "links": [
+        {
+          "label": "Study in the States: reporting volunteer positions during OPT",
+          "url": "https://studyinthestates.dhs.gov/2018/07/reporting-volunteer-positions-during-opt-employment"
+        },
+        {
+          "label": "Study in the States: F-1 OPT",
+          "url": "https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-optional-practical-training-opt"
+        },
+        {
+          "label": "Harvard International Office: STEM OPT employment types",
+          "url": "https://www.hio.harvard.edu/node/50457"
+        }
+      ],
+      "image": "img/opt.jpg",
+      "instagram": "https://www.instagram.com/reel/DgSgwO4RWTX/"
+    },
     {
       "id": "2026-11-27-whatsapp-travel-esim",
       "date": "2026-11-27",
